@@ -48,3 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Heeyeon205&show_icons=true&theme=tokyonight"/>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Heeyeon205&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
