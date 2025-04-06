@@ -19,3 +19,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+## Blog
+[![Tistory](https://img.shields.io/badge/Tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white)](https://lyletool.tistory.com)
