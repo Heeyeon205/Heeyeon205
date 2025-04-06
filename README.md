@@ -1,4 +1,5 @@
-https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2F977C&height=200&section=header&text=Welcome%20to%20Lyle's%20GitHub&fontSize=35&fontColor=ffffff
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2F977C&height=200&section=header&text=Welcome%20to%20Lyle%27s%20GitHub&fontSize=35&fontColor=ffffff)
+
 
 
 <!--
