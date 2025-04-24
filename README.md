@@ -47,7 +47,7 @@
 
 <br>
 
-<h2 align="center">💻 Projeck</h2>
+<h2 align="center">💻 Project</h2>
 
 <p align="center">
   
