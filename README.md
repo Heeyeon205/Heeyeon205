@@ -48,11 +48,27 @@
 <br>
 
 <h2 align="center">💻 Project</h2>
-  <a href="https://github.com/Heeyeon205/newsion-server" target="_blank">newsion</a>
 
 <p align="center">
+
+  <a href="https://github.com/Dev-RiQ/Radish_Market" target="_blank">
+    <img src="https://img.shields.io/badge/무우마켓-4CAF50?style=for-the-badge&logoColor=white" alt="무우마켓" />
+  </a>
+  <br>
+  <span>2025.03.11 ~ 2025.03.28  |  3명</span>
   
+  <br/>
+  <br/>
+
+  <a href="https://github.com/Heeyeon205/newsion-server" target="_blank">
+    <img src="https://img.shields.io/badge/NEWSION-white?style=for-the-badge&logoColor=black" alt="NEWSION" />
+  </a>
+  <br/>
+  <span>2025.04.15 ~ 2025.05.08 | 4명</span>
+
 </p>
+
+
 
 
 <!--
