@@ -48,7 +48,7 @@
 <br>
 
 <h2 align="center">💻 Project</h2>
-  [테스트](https://github.com/Heeyeon205/newsion-server.git)
+  [newsion](https://github.com/Heeyeon205/newsion-server)
 <p align="center">
   
 </p>
