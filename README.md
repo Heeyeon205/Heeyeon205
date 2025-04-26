@@ -48,7 +48,8 @@
 <br>
 
 <h2 align="center">💻 Project</h2>
-  [newsion](https://github.com/Heeyeon205/newsion-server)
+  <a href="https://github.com/Heeyeon205/newsion-server" target="_blank">newsion</a>
+
 <p align="center">
   
 </p>
