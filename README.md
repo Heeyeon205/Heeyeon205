@@ -61,7 +61,10 @@
   <br/>
 
   <a href="https://github.com/Heeyeon205/newsion-server" target="_blank">
-    <img src="https://img.shields.io/badge/NEWSION-white?style=for-the-badge&logoColor=black" alt="NEWSION" />
+    <img src="https://img.shields.io/badge/NEWSION Server-Orange?style=for-the-badge&logoColor=black" alt="NEWSION" />
+  </a>
+    <a href="https://github.com/Heeyeon205/newsion-client.git" target="_blank">
+    <img src="https://img.shields.io/badge/NEWSION Client-Orange?style=for-the-badge&logoColor=black" alt="NEWSION" />
   </a>
   <br/>
   <span>2025.04.15 ~ 2025.05.08 | 4명</span>
