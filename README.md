@@ -52,7 +52,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/Dev-RiQ/Radish_Market" target="_blank">
+  <a href="https://github.com/Heeyeon205/radish-market" target="_blank">
     <img src="https://img.shields.io/badge/무우마켓-4CAF50?style=for-the-badge&logoColor=white" alt="무우마켓" />
   </a>
   <br>
